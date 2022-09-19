@@ -1,0 +1,81 @@
+form {
+    display: block;
+    width: 10rem;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.today-temp {
+    text-align: center;
+    padding-top: 35px;
+}
+
+h5 {
+    font-size: 40px;
+}
+
+.cloud {
+    color: rgb(54, 112, 238);
+}
+
+h2 {
+    line-height: 18px;
+    font-size: 25px;
+}
+
+h3{
+    font-size: 18px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.card-upcoming {
+    text-align: center;
+    height: auto;
+}
+
+.col-2 {
+    display: inline;
+}
+
+.sun-icon {
+    color: rgb(246, 217, 33);
+    font-size: 30px;
+}
+
+.rain-icon{
+    color:rgb(4, 4, 135);
+    font-size: 30px;
+}
+
+.clouds-icon{
+    color:rgb(54, 112, 238);
+    font-size: 30px;
+}
+
+p{
+    line-height: 15px;
+}
+
+.date{
+    font-size: 12px;
+}
+
+.day, .forecast{
+    font-size: 12px;
+}
+
+h4{
+    font-size: 15px;
+}
+
+.row-cities {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.city {
+    text-align: center;
+}
